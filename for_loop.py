@@ -34,8 +34,6 @@ def act18():
             num -= 1 
         print()
 
-
-
     #right triangle
     for outer in range(1,11,1):  #This outer loop responsible for creating 1 to 10 in row
         for inner in range(1, outer): #This inner loop responsible for print number on each row or create horizontal 
@@ -71,4 +69,5 @@ def act20():
             print("*", end=" ") 
         for diamond in range(outer,10,1): # print reverse triangle in the same loop
             print("♦", end=" ") 
+
         print() # to make new line after each row
