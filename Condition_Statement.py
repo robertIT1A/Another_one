@@ -12,6 +12,7 @@ def act8():
         print("You have not enough balance, please try again!")
         print("Your balance is only", balance)
 
+
 #Loyalty card discount
 #If the user have a loyalty card, loyalty card discount must be applied
 #30% discount for loyalty card, if no loyalty card no discount
@@ -50,4 +51,5 @@ def act11():
         print("Negative and Odd")
 
     else:
+
         print("Zero")
