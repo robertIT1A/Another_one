@@ -13,6 +13,7 @@ def countdown():
         time.sleep(1)
 
 
+        
 def Variables_printing():
     while True:
         print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
@@ -250,4 +251,5 @@ def main():
             
         else:
             pass    
+
 main()
