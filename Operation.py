@@ -13,6 +13,7 @@ def act6():
     print ("The remainder of", x, "and",y, "is", x % y) 
     print ("The floor division of",x, "and", y, "is", x//y)
 
+
 def act7():   
     x = 10
     print("The original value of x is", x)
@@ -30,4 +31,5 @@ def act9():
     name = input("Type your username:")
     print(username == name)
     password1 = input("\nType your password:")
+
     print(password == password1)
